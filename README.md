@@ -1,3 +1,5 @@
 # apexyear4
 
-#### I have limitations in producing the ring prediction program, but I want to record information about the ring.
+#### I want to record information about the ring.
+#### All information was taken from YouTube's Apex Legends Global Series.
+#### 
